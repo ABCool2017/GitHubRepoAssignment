@@ -1,0 +1,2 @@
+To start I created the “readme.md” file through the terminal, then after adding some text to the file, I added it to the staging area, then committed the changes.
+Following that step I went to GitHub.com and created a repository there, and then I pushed the files upstream to the GitHub.com website.
